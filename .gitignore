@@ -1,0 +1,15 @@
+node_modules
+build_local
+.vscode
+.idea
+.editorconfig
+Thumbs.db
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+LICENSE
+
+tailwind.config.js
+config.js
+config.production.js
